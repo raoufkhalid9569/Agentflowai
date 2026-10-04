@@ -1,0 +1,7 @@
+{
+  "name": "AgentFlow AI",
+  "description": "Autonomous Goal-to-Action Agent platform converting high-level goals into multi-step executed workflows with dynamic planning, tool selection, error recovery, replanning, and verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
